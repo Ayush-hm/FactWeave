@@ -1,0 +1,9 @@
+python-dotenv
+neo4j
+google-genai
+docling
+pymupdf
+langchain-core
+langchain-community
+langchain-experimental
+langchain-google-genai
